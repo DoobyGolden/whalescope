@@ -1,0 +1,5 @@
+requests>=2.31
+python-dotenv>=1.0
+# Optional official client (covers most endpoints; our wrapper falls back to raw REST):
+# unusualwhales-python-client>=5.0
+# streamlit>=1.32   # Day-2 dashboard upgrade (optional)
