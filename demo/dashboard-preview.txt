@@ -1,0 +1,73 @@
+=== WhaleScope scan [MOCK (set UW_API_KEY for live)] ===
+
+--- NVDA: 12 sweep alerts ---
+[unusual-sweep] NVDA 🐂 bullish
+$750,000 call sweep on the 2026-11-21 $548.0s
+Volume 4740x vs open interest 6892; printed sweep. Institutional urgency print.
+[unusual-sweep] NVDA 🐂 bullish
+$5,000,000 call sweep on the 2026-11-21 $188.3s
+Volume 1380x vs open interest 13299; printed sweep. Institutional urgency print.
+[unusual-sweep] NVDA 🐻 bearish
+$750,000 put sweep on the 2026-11-21 $573.8s
+Volume 4467x vs open interest 13771; printed sweep. Institutional urgency print.
+[unusual-sweep] NVDA 🐻 bearish
+$5,000,000 put sweep on the 2026-11-21 $392.2s
+Volume 15598x vs open interest 10377; printed sweep. Institutional urgency print.
+[unusual-sweep] NVDA 🐂 bullish
+$2,400,000 call sweep on the 2026-11-21 $112.1s
+Volume 9479x vs open interest 7203; printed sweep. Institutional urgency print.
+
+--- SPY: 7 sweep alerts ---
+[unusual-sweep] SPY 🐂 bullish
+$750,000 call sweep on the 2026-11-21 $339.9s
+Volume 16672x vs open interest 28474; printed sweep. Institutional urgency print.
+[unusual-sweep] SPY 🐂 bullish
+$1,200,000 call sweep on the 2026-11-21 $540.2s
+Volume 5581x vs open interest 17975; printed sweep. Institutional urgency print.
+[unusual-sweep] SPY 🐻 bearish
+$750,000 put sweep on the 2026-11-21 $136.4s
+Volume 7573x vs open interest 18350; printed sweep. Institutional urgency print.
+[unusual-sweep] SPY 🐂 bullish
+$1,200,000 call sweep on the 2026-11-21 $464.4s
+Volume 14938x vs open interest 27917; printed sweep. Institutional urgency print.
+[unusual-sweep] SPY 🐂 bullish
+$750,000 call sweep on the 2026-11-21 $164.5s
+Volume 5129x vs open interest 8298; printed sweep. Institutional urgency print.
+
+--- TSLA: 7 sweep alerts ---
+[unusual-sweep] TSLA 🐻 bearish
+$2,400,000 put sweep on the 2026-11-21 $119.0s
+Volume 6875x vs open interest 8257; printed sweep. Institutional urgency print.
+[unusual-sweep] TSLA 🐂 bullish
+$750,000 call sweep on the 2026-11-21 $169.6s
+Volume 2208x vs open interest 7287; printed sweep. Institutional urgency print.
+[unusual-sweep] TSLA 🐻 bearish
+$750,000 put sweep on the 2026-11-21 $547.5s
+Volume 531x vs open interest 6461; printed sweep. Institutional urgency print.
+[unusual-sweep] TSLA 🐂 bullish
+$2,400,000 call sweep on the 2026-11-21 $190.3s
+Volume 7605x vs open interest 22942; printed sweep. Institutional urgency print.
+[unusual-sweep] TSLA 🐂 bullish
+$1,200,000 call sweep on the 2026-11-21 $417.0s
+Volume 7198x vs open interest 28261; printed sweep. Institutional urgency print.
+
+--- AAPL: 5 sweep alerts ---
+[unusual-sweep] AAPL 🐂 bullish
+$2,400,000 call sweep on the 2026-11-21 $362.8s
+Volume 1402x vs open interest 849; printed sweep. Institutional urgency print.
+[unusual-sweep] AAPL 🐻 bearish
+$5,000,000 put sweep on the 2026-11-21 $200.4s
+Volume 12308x vs open interest 420; printed sweep. Institutional urgency print.
+[unusual-sweep] AAPL 🐻 bearish
+$2,400,000 put sweep on the 2026-11-21 $117.0s
+Volume 14691x vs open interest 24614; printed sweep. Institutional urgency print.
+[unusual-sweep] AAPL 🐂 bullish
+$5,000,000 call sweep on the 2026-11-21 $355.9s
+Volume 14020x vs open interest 10544; printed sweep. Institutional urgency print.
+[unusual-sweep] AAPL 🐻 bearish
+$750,000 put sweep on the 2026-11-21 $523.7s
+Volume 10029x vs open interest 29623; printed sweep. Institutional urgency print.
+
+31 alerts across 4 tickers
+
+HTML snapshot written to demo/dashboard-preview.html
